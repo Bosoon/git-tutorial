@@ -3,3 +3,4 @@ This is the second line.
 	- feature-A
 	- fix-B
 	- feature-C
+	- feature-D
